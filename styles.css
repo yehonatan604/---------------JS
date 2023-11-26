@@ -1,0 +1,17 @@
+.bg-silver {
+    background-color: rgb(231, 231, 231);
+}
+
+tr {
+    text-align: center;
+    vertical-align: middle;
+}
+
+tr:hover {
+    background-color: rgb(231, 231, 231);
+}
+
+.fa:hover {
+    cursor: pointer;
+    color: slateblue;
+}
